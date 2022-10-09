@@ -1,0 +1,17 @@
+/Users/psyko/Projects/truc/truc/bin/Debug/net6.0/truc
+/Users/psyko/Projects/truc/truc/bin/Debug/net6.0/truc.deps.json
+/Users/psyko/Projects/truc/truc/bin/Debug/net6.0/truc.runtimeconfig.json
+/Users/psyko/Projects/truc/truc/bin/Debug/net6.0/truc.dll
+/Users/psyko/Projects/truc/truc/bin/Debug/net6.0/truc.pdb
+/Users/psyko/Projects/truc/truc/obj/Debug/net6.0/truc.csproj.AssemblyReference.cache
+/Users/psyko/Projects/truc/truc/obj/Debug/net6.0/truc.GeneratedMSBuildEditorConfig.editorconfig
+/Users/psyko/Projects/truc/truc/obj/Debug/net6.0/truc.AssemblyInfoInputs.cache
+/Users/psyko/Projects/truc/truc/obj/Debug/net6.0/truc.AssemblyInfo.cs
+/Users/psyko/Projects/truc/truc/obj/Debug/net6.0/truc.csproj.CoreCompileInputs.cache
+/Users/psyko/Projects/truc/truc/obj/Debug/net6.0/truc.dll
+/Users/psyko/Projects/truc/truc/obj/Debug/net6.0/refint/truc.dll
+/Users/psyko/Projects/truc/truc/obj/Debug/net6.0/truc.pdb
+/Users/psyko/Projects/truc/truc/obj/Debug/net6.0/truc.genruntimeconfig.cache
+/Users/psyko/Projects/truc/truc/obj/Debug/net6.0/ref/truc.dll
+/Users/psyko/Projects/truc/truc/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/psyko/Projects/truc/truc/obj/Debug/net6.0/truc.csproj.CopyComplete
